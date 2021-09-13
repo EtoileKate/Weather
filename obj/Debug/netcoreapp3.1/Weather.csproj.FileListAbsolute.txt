@@ -1,0 +1,15 @@
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.Form1.resources
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.GenerateResource.cache
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.exe
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.deps.json
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.dll
+C:\Users\Ferrax\source\repos\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.dll
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
+C:\Users\Ferrax\source\repos\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csprojAssemblyReference.cache
